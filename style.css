@@ -1,0 +1,39 @@
+```css
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 20px;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+a {
+    color: blue;
+}
+```
